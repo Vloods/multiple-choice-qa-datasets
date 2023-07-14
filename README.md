@@ -1,4 +1,7 @@
 # Multiple-choice QA datasets
+<p align="center">
+  <img src="./trivia-questions.png" width="800" title="network" alt="">
+</p>
 A collection of large datasets containing multiple-choice questions and their answers for use in Natural Language Processing tasks like question answering (QA).
 
 ## MMLU (Measuring Massive Multitask Language Understanding)
